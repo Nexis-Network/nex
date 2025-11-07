@@ -37,7 +37,7 @@
     },
     "dependencies": {
         "@elizaos/core": "workspace:*",
-        "ai": "4.1.54",
+        "ai": "5.0.52",
         "pino": "^9.6.0"
     },
     "publishConfig": {
